@@ -1,0 +1,26 @@
+"""
+Programa: 
+Descrição: 
+Autor:
+Data:
+Versão:
+"""
+
+
+
+# Atribuição de variáveis
+
+
+
+
+# Entrada de dados
+
+
+
+
+# Processamento de dados
+
+
+
+
+# Saída de dados
